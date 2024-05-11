@@ -1,1 +1,1 @@
-# oct2023WeekdayRepo
+#MySonarGitHubActions
